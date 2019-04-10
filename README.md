@@ -1,6 +1,6 @@
----
+
 permalink: /index.html
----
+
 
 # foodStock
 This Project is for Personal Usage and Presentation
