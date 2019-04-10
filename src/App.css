@@ -1,0 +1,53 @@
+/* Universal Styles */
+
+html {
+  font-size: 18px;
+  background-image: url('./mobile.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right bottom;
+}
+
+html, body { scroll-behavior:smooth; }
+
+@media only screen and (max-width: 560px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+input:focus {
+  outline: none;
+}
+
+/* Reusable Component - Image Container */
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: #000;
+}
+
+.image-container img {
+  width: 100%;
+}
+
+/* App Styles */
+
+.App {
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Titillium Web', sans-serif;
+	position: fixed;
+	color: white;
+	font-size: xx-large;
+	font-weight: 900;
+	top: 50px;
+	padding: 15px 50px 15px 20px;
+	background-color: rgba(0,0,0,0.8);
+}
