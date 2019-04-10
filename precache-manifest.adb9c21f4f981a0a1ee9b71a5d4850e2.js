@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "madonghui.github.io/static/css/main.5a056cfa.chunk.css"
   },
   {
-    "revision": "2f68773ad3ae3cd95173263c58403697",
+    "revision": "5bf0fc6a9b1ab19630f37a3b406ed7c2",
     "url": "madonghui.github.io/index.html"
   }
 ];
