@@ -1,14 +1,14 @@
 {
-  "main.css": "madonghui.github.io/static/css/main.5a056cfa.chunk.css",
-  "main.js": "madonghui.github.io/static/js/main.43fe39c7.chunk.js",
-  "main.js.map": "madonghui.github.io/static/js/main.43fe39c7.chunk.js.map",
-  "runtime~main.js": "madonghui.github.io/static/js/runtime~main.baf13b74.js",
-  "runtime~main.js.map": "madonghui.github.io/static/js/runtime~main.baf13b74.js.map",
-  "static/js/2.5d848ac4.chunk.js": "madonghui.github.io/static/js/2.5d848ac4.chunk.js",
-  "static/js/2.5d848ac4.chunk.js.map": "madonghui.github.io/static/js/2.5d848ac4.chunk.js.map",
-  "index.html": "madonghui.github.io/index.html",
-  "precache-manifest.adb9c21f4f981a0a1ee9b71a5d4850e2.js": "madonghui.github.io/precache-manifest.adb9c21f4f981a0a1ee9b71a5d4850e2.js",
-  "service-worker.js": "madonghui.github.io/service-worker.js",
-  "static/css/main.5a056cfa.chunk.css.map": "madonghui.github.io/static/css/main.5a056cfa.chunk.css.map",
-  "static/media/App.css": "madonghui.github.io/static/media/mobile.56a27114.jpg"
+  "main.css": "/static/css/main.14ee114f.chunk.css",
+  "main.js": "/static/js/main.a5d90135.chunk.js",
+  "main.js.map": "/static/js/main.a5d90135.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.5d848ac4.chunk.js": "/static/js/2.5d848ac4.chunk.js",
+  "static/js/2.5d848ac4.chunk.js.map": "/static/js/2.5d848ac4.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.647649281ce428761082832f9f68ea2c.js": "/precache-manifest.647649281ce428761082832f9f68ea2c.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.14ee114f.chunk.css.map": "/static/css/main.14ee114f.chunk.css.map",
+  "static/media/App.css": "/static/media/mobile.56a27114.jpg"
 }
