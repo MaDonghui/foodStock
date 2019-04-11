@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/foodStock/static/js/runtime~main.cc4a190f.js"
   },
   {
-    "revision": "4e4bc3c67d2bc3f5a277",
+    "revision": "0357e5cc9303db20d270",
     "url": "/foodStock/static/js/main.1547b1ed.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/foodStock/static/js/2.5d848ac4.chunk.js"
   },
   {
-    "revision": "4e4bc3c67d2bc3f5a277",
-    "url": "/foodStock/static/css/main.a78752cd.chunk.css"
+    "revision": "0357e5cc9303db20d270",
+    "url": "/foodStock/static/css/main.6dc8c527.chunk.css"
   },
   {
-    "revision": "584e7ba8280f4aaaa778026bc5d0e608",
+    "revision": "1728780467f1ff7f0634650f9762e698",
     "url": "/foodStock/index.html"
   }
 ];
