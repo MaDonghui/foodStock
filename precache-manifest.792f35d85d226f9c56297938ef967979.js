@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/foodStock/static/js/runtime~main.cc4a190f.js"
   },
   {
-    "revision": "0357e5cc9303db20d270",
-    "url": "/foodStock/static/js/main.1547b1ed.chunk.js"
+    "revision": "156fe0ded4b5a50405eb",
+    "url": "/foodStock/static/js/main.085c96db.chunk.js"
   },
   {
     "revision": "a76cba15e7ef5affafc4",
     "url": "/foodStock/static/js/2.5d848ac4.chunk.js"
   },
   {
-    "revision": "0357e5cc9303db20d270",
-    "url": "/foodStock/static/css/main.6dc8c527.chunk.css"
+    "revision": "156fe0ded4b5a50405eb",
+    "url": "/foodStock/static/css/main.e2a12b27.chunk.css"
   },
   {
-    "revision": "1728780467f1ff7f0634650f9762e698",
+    "revision": "5567136ea85a225dcca472bae656ca06",
     "url": "/foodStock/index.html"
   }
 ];
