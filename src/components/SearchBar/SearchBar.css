@@ -3,17 +3,16 @@
     flex-direction: column;
     justify-content: center;
     height: 80vh;
-  
-  }
-  
-  .SearchBar-sort-options ul {
+}
+
+.SearchBar-sort-options ul {
     display: flex;
     justify-content: center;
     margin-bottom: 2.22rem;
     color: #2f4858;
-  }
-  
-  .SearchBar-sort-options li {
+}
+
+.SearchBar-sort-options li {
     cursor: pointer;
     border-bottom: 1px solid #fff;
     padding: 0px 2rem .33rem 2rem;
@@ -22,103 +21,93 @@
     font-weight: 300;
     font-size: 1rem;
     transition: color .25s;
-  }
-  
-  .SearchBar-sort-options li:hover {
+}
+
+.SearchBar-sort-options li:hover {
     color: #58a344;
-  }
-  
-  .SearchBar-sort-options li.active,
-  .SearchBar-sort-options li.active:hover {
+}
+
+.SearchBar-sort-options li.active,
+.SearchBar-sort-options li.active:hover {
     border-bottom: 1px solid black;
     color: black;
     font-weight: 600;
-  }
-  
-  .SearchBar-fields {
+}
+
+.SearchBar-fields {
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-bottom: 2.88rem;
     padding: 0.5rem;
-  }
-  
-  .SearchBar-fields input {
+}
+
+.SearchBar-fields input {
     width: 50rem;
     font-family: 'Titillium Web', sans-serif;
     font-style: italic;
     background-color: rgba(0, 0, 0, 0);
     border-style: none;
-  }
+}
 
-  ::placeholder {
+ ::placeholder {
     opacity: 1;
     color: black;
-  }
-  
-  .SearchBar-fields input:last-child {
+}
+
+.SearchBar-fields input:last-child {
     margin-right: 0;
-  }
+}
 
-
-  
-  .SearchBar-submit {
+.SearchBar-submit {
     text-align: center;
-  }
-  
-  .SearchBar-submit a {
+}
+
+.SearchBar-submit a {
     border-radius: 2px;
     padding: .72rem 1.7rem;
     background-color: black;
     color: #ffffff;
     font-weight: 600;
     transition: background-color .5s;
-  }
-  
-  .SearchBar-submit a:hover {
+}
+
+.SearchBar-submit a:hover {
     cursor: pointer;
     background-color: #a7874b;
-  }
-  
-  #foodName {
+}
+
+#foodName {
     font-size: 6rem;
     font-weight: 300;
-  }
+}
 
-  #locationName {
+#locationName {
     font-size: 3rem;
     font-weight: 100;
-  }
+}
 
-  @media only screen and (max-width: 560px) {
-
-  
+@media only screen and (max-width: 560px) {
     .SearchBar-sort-options ul {
-      margin-left: 2rem;
-      margin-right: 2rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
     }
-  
     .SearchBar-fields {
-      flex-direction: column;
-      align-items: center;
+        flex-direction: column;
+        align-items: center;
     }
-
     .SearchBar-fields input {
-      width: 100%;
+        width: 100%;
     }
-
     .SearchBar-submit {
-      margin: 0 2rem;
-
+        margin: 0 2rem;
     }
-
     #foodName {
-      font-size: 4rem;
-      font-weight: 300;
+        font-size: 4rem;
+        font-weight: 300;
     }
-
     #locationName {
-      font-size: 2rem;
-      font-weight: 100;
+        font-size: 2rem;
+        font-weight: 100;
     }
-  }
+}

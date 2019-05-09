@@ -26,7 +26,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Food<br></br>Stock</h1>
+        <h1 id="logo">Food<br></br>Stock</h1>
         <SearchBar searchYelp={this.searchYelp} />
         <BusinessList businesses={this.state.businesses} />
       </div>
