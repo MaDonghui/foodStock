@@ -1,5 +1,5 @@
 {
-  "main.css": "/foodStock/static/css/main.e2a12b27.chunk.css",
+  "main.css": "/foodStock/static/css/main.a39c0eed.chunk.css",
   "main.js": "/foodStock/static/js/main.085c96db.chunk.js",
   "main.js.map": "/foodStock/static/js/main.085c96db.chunk.js.map",
   "runtime~main.js": "/foodStock/static/js/runtime~main.cc4a190f.js",
@@ -7,8 +7,8 @@
   "static/js/2.5d848ac4.chunk.js": "/foodStock/static/js/2.5d848ac4.chunk.js",
   "static/js/2.5d848ac4.chunk.js.map": "/foodStock/static/js/2.5d848ac4.chunk.js.map",
   "index.html": "/foodStock/index.html",
-  "precache-manifest.792f35d85d226f9c56297938ef967979.js": "/foodStock/precache-manifest.792f35d85d226f9c56297938ef967979.js",
+  "precache-manifest.ecabba298cbd535d57d51c786f4996b4.js": "/foodStock/precache-manifest.ecabba298cbd535d57d51c786f4996b4.js",
   "service-worker.js": "/foodStock/service-worker.js",
-  "static/css/main.e2a12b27.chunk.css.map": "/foodStock/static/css/main.e2a12b27.chunk.css.map",
+  "static/css/main.a39c0eed.chunk.css.map": "/foodStock/static/css/main.a39c0eed.chunk.css.map",
   "static/media/App.css": "/foodStock/static/media/mobile.56a27114.jpg"
 }
