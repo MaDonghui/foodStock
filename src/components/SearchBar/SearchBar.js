@@ -70,7 +70,7 @@ export default class SearchBar extends React.Component {
       <div className="SearchBar">
         <div className="SearchBar-fields">
           <input
-            placeholder="Hungry for?"
+            placeholder="Food Name"
             onChange={this.handleTermChange}
             id="foodName"
           />

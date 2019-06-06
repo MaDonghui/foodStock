@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     margin-bottom: 2.22rem;
-    color: #2f4858;
+    color: white;
 }
 
 .SearchBar-sort-options li {
@@ -30,13 +30,14 @@
 .SearchBar-sort-options li.active,
 .SearchBar-sort-options li.active:hover {
     border-bottom: 1px solid black;
-    color: black;
+    color: gold;
     font-weight: 600;
 }
 
 .SearchBar-fields {
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
     margin-bottom: 2.88rem;
     padding: 0.5rem;
@@ -80,11 +81,25 @@
 #foodName {
     font-size: 6rem;
     font-weight: 300;
+    text-align: center;
+    color: white;
+}
+
+#foodName::placeholder {
+    color: white;
+    opacity: 0.4;
 }
 
 #locationName {
     font-size: 3rem;
     font-weight: 100;
+    text-align: center;
+    color: white;
+}
+
+#locationName::placeholder {
+    color: white;
+    opacity: 0.4;
 }
 
 @media only screen and (max-width: 560px) {
